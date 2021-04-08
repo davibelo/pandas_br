@@ -1,0 +1,14 @@
+# vscode settings
+.vscode/**
+
+# virtual enviroment folders
+.venv/**
+
+# jupyter checkpoints
+**/.ipynb_checkpoints/**
+
+# pre-compiled code
+**/__pycache__/**
+
+# temp Code Runner files
+tempCodeRunnerFile.py
